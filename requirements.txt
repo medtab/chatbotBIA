@@ -1,6 +1,9 @@
 pandas
-numpy
-spacy
+numpy==1.23.5
+spacy==3.5.2
+torch==2.0.1
+thinc==8.1.10
+fr-core-news-md-3.5.0.tar.gz
 pillow
 sentence_transformers
 Scikit-learn
